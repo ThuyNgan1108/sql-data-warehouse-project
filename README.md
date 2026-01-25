@@ -1,6 +1,6 @@
 # sql-data-warehouse-project
 Build a modern data with SQL Server, including ETL processes, data modeling, and analytics
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insingts.
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
   
    Project Overview
 1. Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
